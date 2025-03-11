@@ -69,4 +69,4 @@ if response.status_code == 200:
         print("No hotel data found in the API response.")
 else:
     print(f"Failed to retrieve data: {response.status_code}")
-    
+
