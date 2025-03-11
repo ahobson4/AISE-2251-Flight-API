@@ -1,0 +1,180 @@
+Hotel Name: Relais & Châteaux Hotel Orfila
+Price: CA$817
+Rating: 5
+Book through: Relais & Châteaux
+----------------------------------------
+Hotel Name: 1. SLEEP'N Atocha
+Price: CA$278
+Rating: 5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 2. Only YOU Boutique Hotel Madrid
+Price: CA$520
+Rating: 5
+Book through: Only YOU Hotels
+----------------------------------------
+Hotel Name: 3. Only YOU Hotel Atocha
+Price: CA$360
+Rating: 5
+Book through: Only YOU Hotels
+----------------------------------------
+Hotel Name: 4. ARTIEM Madrid
+Price: CA$255
+Rating: 5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 5. Room Mate Alba
+Price: CA$391
+Rating: 5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: Relais & Chateaux Heritage Madrid Hotel
+Price: CA$504
+Rating: 5
+Book through: Official Site
+----------------------------------------
+Hotel Name: 6. Pestana CR7 Gran Vía Madrid
+Price: CA$433
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 7. UMusic Hotel Madrid
+Price: CA$635
+Rating: 5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 8. Travelodge Madrid Metropolitano
+Price: CA$190
+Rating: 4
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 9. ApartoSuites Jardines de Sabatini
+Price: CA$398
+Rating: 4.5
+Book through: Agoda.com
+----------------------------------------
+Hotel Name: 10. Dear Hotel Madrid
+Price: CA$402
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: Relais & Châteaux Hotel Orfila
+Price: CA$817
+Rating: 5
+Book through: Relais & Châteaux
+----------------------------------------
+Hotel Name: 11. Hotel Principe Pio
+Price: CA$276
+Rating: 4
+Book through: Official Site
+----------------------------------------
+Hotel Name: 12. Hotel Urban
+Price: CA$558
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 13. Catalonia Atocha
+Price: CA$426
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 14. Pestana Plaza Mayor Madrid
+Price: CA$506
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 15. Relais & Chateaux Heritage Madrid Hotel
+Price: CA$504
+Rating: 5
+Book through: Official Site
+----------------------------------------
+Hotel Name: 16. NH Madrid Nacional
+Price: CA$434
+Rating: 4
+Book through: NH Hotels
+----------------------------------------
+Hotel Name: 17. Hotel Liabeny
+Price: CA$516
+Rating: 4.5
+Book through: Vio.com
+----------------------------------------
+Hotel Name: 18. Hotel Claridge
+Price: CA$310
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 19. Hotel Europa
+Price: CA$534
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 20. Hotel Regina
+Price: CA$559
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: Relais & Chateaux Heritage Madrid Hotel
+Price: CA$504
+Rating: 5
+Book through: Official Site
+----------------------------------------
+Hotel Name: 21. Hotel Puerta América Madrid
+Price: CA$496
+Rating: 4
+Book through: Agoda.com
+----------------------------------------
+Hotel Name: 22. Melia Castilla
+Price: CA$466
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 23. Hotel Maydrit Airport
+Price: CA$252
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 24. ME Madrid Reina Victoria
+Price: CA$533
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 25. Hotel Porcel Ganivet
+Price: CA$306
+Rating: 4
+Book through: Booking.com
+----------------------------------------
+Hotel Name: Hotel Principe Pio
+Price: CA$276
+Rating: 4
+Book through: Official Site
+----------------------------------------
+Hotel Name: 26. Hotel Mediodia
+Price: CA$259
+Rating: 4
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 27. TOC Hostel Madrid
+Price: CA$233
+Rating: 4.5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 28. Palacio de los Duques Gran Meliá - The Leading Hotels of the World
+Price: CA$1,390
+Rating: 5
+Book through: Booking.com
+----------------------------------------
+Hotel Name: 29. Hotel Puerta de Toledo
+Price: CA$2,879
+Rating: 4
+Book through: Agoda.com
+----------------------------------------
+Hotel Name: 30. Hotel Chamartín The One
+Price: None
+Rating: 3.5
+Book through: MakeMyTrip
+----------------------------------------
+Hotel Name: Palacio de los Duques Gran Meliá - The Leading Hotels of the World
+Price: CA$2,380
+Rating: 5
+Book through: Melia.com
+----------------------------------------
