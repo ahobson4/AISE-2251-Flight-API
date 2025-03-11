@@ -1,5 +1,4 @@
 import requests
-
 userAnswer = input("What city do you want to go to: ")
 
 # Step 1: Find the geoId for a location
