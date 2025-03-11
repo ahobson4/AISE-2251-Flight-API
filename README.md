@@ -1,4 +1,4 @@
-#READ ME
+#READ ME - AISE 2251 Final Project
 
 Remember to add useful commit comments so that we know what changes are made
  
